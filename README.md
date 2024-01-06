@@ -5,12 +5,12 @@ Link for Download PoluxOS "Infrunami" Version: https://mega.nz/file/n7ACRCKC#6MT
 
 # Virtual Box
 
-# English
++ English
 To use in Virtual Box: Click on "New" Choose the Type as "Linux" and Version as "Ubuntu 22.04" Click on Next Base memory set to 4096 1 CPU (If you prefer) Click on next Next time it will appear to create disk, Leave the default option selected and complete the creation
 
 Right after click on the machine and go to "Settings" Look for Storage and below "Controller IDE" You will have the option to choose an .iso disk Click on the blue disk that appears next to the "Optical Drive" options And choose the iso Start the machine and follow the installation process normally
 
-# Português
++ Português
 Para usar em Virtual Box:
 Clique em "New"
 Escolha o Tipo como "Linux" e Version em "Ubuntu 22.04"
