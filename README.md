@@ -1,5 +1,6 @@
 # PoluxOS
 
+Link for Download PoluxOS "Infrunami" Version: https://mega.nz/file/n7ACRCKC#6MT4xaLkBQ-3LZ_zs_TmallaKgLHF2GNKZLriH67Kdg ( GUI )
 
 
 
