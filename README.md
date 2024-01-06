@@ -10,7 +10,7 @@ To use in Virtual Box: Click on "New" Choose the Type as "Linux" and Version as 
 
 Right after click on the machine and go to "Settings" Look for Storage and below "Controller IDE" You will have the option to choose an .iso disk Click on the blue disk that appears next to the "Optical Drive" options And choose the iso Start the machine and follow the installation process normally
 
-+ Português
++ Português <br>
 Para usar em Virtual Box:
 Clique em "New"
 Escolha o Tipo como "Linux" e Version em "Ubuntu 22.04"
